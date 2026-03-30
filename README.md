@@ -1,3 +1,6 @@
+⚠️ **This repository has moved to Codeberg: https://codeberg.org/cdamian/softonic-coding-dojo**
+
+This GitHub repository is archived and no longer maintained here.
 Softonic Coding Dojo Code
 =========================
 
